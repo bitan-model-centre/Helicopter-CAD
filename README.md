@@ -30,8 +30,8 @@ X- YY UNF/UNC => &emsp; X= Gauge/ Nominal Shank Diameter/ Screw Number &emsp; YY
 <li> Shaft Diameter (External Threading)= Major Diameter – (0.1/ TPI) </li>
 </ul>
 
-A few assemblies have been made namely the Main Rotor Head and Main Gearbox Assembly.
-The imported parts are not listed in catalogue but are uploaded here as 'Other Minor Parts'.
+A few assemblies have been made namely the Main Rotor Head and Main Gearbox Assembly. <br>
+The imported parts are not listed in catalogue but are uploaded here as 'Other Minor Parts'. <br>
 On opening any assembly file, ensure the loading option in your NX software is set to 'As Saved' since the part files are not in the same folder.
 
 All CAD files are designed in Siemens NX Designcentre Student Edition V2506. The format of the files is NX Part file.
