@@ -12,23 +12,23 @@ The CAD geometry of many major parts of a Helicopter are available here!
 #Guide:
 The catalogue document lists all the parts with images that are uploaded here with brief descriptions and material that can be used.
 
-Standard Threading Formulas Used:
+<b>Standard Threading Formulas Used:</b><br>
 Since, the blueprint uses dimensions of threads from Wire Gauge Drill Bit Chart used in the USA, we need to interpret the nomenclature. As India majorly uses the metric system governed by the BIS, we can easily convert inch to mm as  “ 1 in = 25.4 mm”. <br>
-UNF- Unified National Fine		
+UNF- Unified National Fine <br>		
 UNC- Unified National Coarse
 
 X- YY UNF/UNC => &emsp; X= Gauge/ Nominal Shank Diameter/ Screw Number &emsp; YY= Threads per inch (TPI)
-					   
-•	Pitch = 1 / TPI <br>
-•	Major Diameter (for numbered machine screws under 0.25in)- <br>
-    D= (Screw Number * 0.013) + 0.060 in	OR	D=X (for fractions) <br>
-•	Minor Diameter- innermost dimension of female thread holes <br>
-    Theoretical Min Minor Diameter= D – (1.08253 * Pitch) <br>
-•	Tap Drill Options (Internal Threading)- <br>
+	<ul>				   
+<li> Pitch = 1 / TPI </li>
+<li> Major Diameter (for numbered machine screws under 0.25in)- <br>
+    D= (Screw Number * 0.013) + 0.060 in	OR	D=X (for fractions) </li>
+<li> Minor Diameter- innermost dimension of female thread holes <br>
+    Theoretical Min Minor Diameter= D – (1.08253 * Pitch) </li>
+<li> Tap Drill Options (Internal Threading)- <br>
     For Aluminum/ Plastics (77% thread for maximum thread depth <br>
-    For Stainless/ Hard Steel (62% thread to reduce risk of breaking tap <br>
-•	Shaft Diameter (External Threading)= Major Diameter – (0.1/ TPI) 
-
+    For Stainless/ Hard Steel (62% thread to reduce risk of breaking tap </li>
+<li> Shaft Diameter (External Threading)= Major Diameter – (0.1/ TPI) </li>
+</ul>
 
 A few assemblies have been made namely the Main Rotor Head, Main Gearbox Assembly and the Base Structure.
 
