@@ -3,7 +3,7 @@ The CAD geometry of many major parts of a Helicopter are available here!
 
 #References:
 1. The dimensions of the various parts have been taken from FURIA Homebuilt Helicopter Construction Plans.
-2. Some minor parts have been imported from open sources- cites-
+2. Some minor parts have been imported from open sources- cites- <br>
    •	HMVV-4 rod end, Cotter Pin, M4 Cup Head Screw from TraceParts <br>
    •	Shell Type Bearing BK1514RS, Ball Bearing 7013 & 6025, Bearing 608-Z from SKF <br>
    •	Shell Type Bearing BK1522 from NTN <br>
