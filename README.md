@@ -17,7 +17,7 @@ Since, the blueprint uses dimensions of threads from Wire Gauge Drill Bit Chart 
 UNF- Unified National Fine		
 UNC- Unified National Coarse
 
-X- YY UNF/UNC => X= Gauge/ Nominal Shank Diameter/ Screw Number &emsp; YY= Threads per inch (TPI)
+X- YY UNF/UNC => &emsp; X= Gauge/ Nominal Shank Diameter/ Screw Number &emsp; YY= Threads per inch (TPI)
 					   
 •	Pitch = 1 / TPI <br>
 •	Major Diameter (for numbered machine screws under 0.25in)- <br>
