@@ -33,7 +33,7 @@ X- YY UNF/UNC => &emsp; X= Gauge/ Nominal Shank Diameter/ Screw Number &emsp; YY
 All CAD files are designed in Siemens NX Designcentre Student Edition V2506. The format of the files is NX Part file.
 
 A few assemblies have been made namely the Main Rotor Head and Main Rotor Gearbox Assembly. <br>
-The imported parts are not listed in catalogue but are uploaded here as 'Other Minor Parts'. <br>
+The imported parts are not listed in catalogue but are uploaded here as 'Other Minor Parts' or in 'Control System' sub-folders. <br>
 On opening any assembly file, ensure the loading option in your NX software is set to 'As Saved' since the part files are not in the same folder and also make sure you have downloaded all the parts so that there is no 'Missing Part' error (The Part Tree inside the assembly file will give you an idea which specific parts are used).
 
 Note: The CAD files are majorly for educational purpose. Any attempt to recreate it commercially may require scrutiny by a verified authority.
